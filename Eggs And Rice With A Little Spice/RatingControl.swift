@@ -1,5 +1,5 @@
 //
-//  RatingConrol.swift
+//  RatingControl.swift
 //  Eggs And Rice With A Little Spice
 //
 //  Created by Connor Skipton on 11/22/16.
