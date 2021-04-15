@@ -70,20 +70,3 @@ class  Meal: NSObject{
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
